@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/index.html"
 languageCode = "en-us"
 languageLang = "en"
 title = "My new Victor-Hugo site"
